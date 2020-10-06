@@ -1,5 +1,5 @@
 # Consumer-Complaint-Management-System
-This a database management system for Consumer complain letters of Ceylon Electricity Board , CS &amp; RA branch.
+This a database management system for Consumer complain letters of Ceylon Electricity Board , CS &amp; RA branch. I have used MS access to implement this as it is easy to manage and implement.
 
 
 ![1e](https://user-images.githubusercontent.com/42799799/95174501-ca665800-07d7-11eb-949a-9d638ecebacb.png)
